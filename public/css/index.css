@@ -1,14 +1,14 @@
-.lesson-four-task-one button:hover {
+.lesson-four-task-one .btn:hover {
     color: red;
     background: yellow;
 }
-.lesson-four-task-two a:hover {
+.lesson-four-task-two .link:hover {
     background: green;
 }
-.lesson-four-task-three a:visited {
+.lesson-four-task-three .link:visited {
     color: yellow;
 }
-.lesson-four-task-four #sidebar .link:link {
+.lesson-four-task-four #sidebar.link:link {
     color: red;
 }
 .lesson-four-task-five .btn:active {
