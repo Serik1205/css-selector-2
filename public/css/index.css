@@ -22,7 +22,7 @@
     color: white;
     background: green;
 }
-.lesson-four-task-eight #input [type ="checkbox"] :checked ~ div {
-    background:white;
-    color: blue;
+#checkbox:checked ~ #target {
+    color: white;
+    background-color: blue;
   }
