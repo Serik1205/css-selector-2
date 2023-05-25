@@ -1,1 +1,28 @@
-
+.lesson-four-task-one button:hover {
+    color: red;
+    background: yellow;
+}
+.lesson-four-task-two a:hover {
+    background: green;
+}
+.lesson-four-task-three a:visited {
+    color: yellow;
+}
+.lesson-four-task-four #sidebar .link:link {
+    color: red;
+}
+.lesson-four-task-five .btn:active {
+    background: blue;
+}
+.lesson-four-task-six .btn:focus {
+    color:orange;
+    background: orange;
+}
+.lesson-four-task-seven #target:target {
+    color: white;
+    background: green;
+}
+.lesson-four-task-eight #input [type ="checkbox"] :checked ~ div {
+    background:white;
+    color: blue;
+  }
